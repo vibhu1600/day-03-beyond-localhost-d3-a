@@ -1,8 +1,8 @@
 # Demo Readiness Verification Brief
 
-Student: [Your Name]
+Student: Vibhuti Uttarde
 Assigned incident: D3-A
-GitHub branch: [your-branch]
+GitHub branch: day-03-beyond-localhost-d3-a
 
 ---
 
