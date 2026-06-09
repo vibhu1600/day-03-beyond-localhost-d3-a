@@ -1,6 +1,6 @@
 # Release Judgment Decision
 
-Student: [Your Name]
+Student: Vibhuti Uttarde
 Variant ID: D3-A
 
 Final decision:
